@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.676d83ca.css",
+    "main.js": "/static/js/main.6c2040fa.js",
+    "static/js/787.8c29b849.chunk.js": "/static/js/787.8c29b849.chunk.js",
+    "static/media/CsTacticsDemo.mp4": "/static/media/CsTacticsDemo.0fab46aa349086aa4ea7.mp4",
+    "static/media/XDesignDemo.mp4": "/static/media/XDesignDemo.ddc479ae9bb6279161c4.mp4",
+    "static/media/LaraBug7.png": "/static/media/LaraBug7.0833deca4669ed4009db.png",
+    "static/media/LaraBugDemo.mp4": "/static/media/LaraBugDemo.43cc7d8b61fda5e7ad8a.mp4",
+    "static/media/LaraBug1.png": "/static/media/LaraBug1.5fb73a1874609b81eb93.png",
+    "static/media/XDesign7.png": "/static/media/XDesign7.9cca56b82ec2c428b1f8.png",
+    "static/media/XDesign4.png": "/static/media/XDesign4.796da6a3d3d0c84b06e2.png",
+    "static/media/XDesign5.png": "/static/media/XDesign5.81c2068b4ed8f9fb1ffa.png",
+    "static/media/XDesign2.png": "/static/media/XDesign2.f0f17bc7190bcf58f184.png",
+    "static/media/XDesign1.png": "/static/media/XDesign1.e6c0c16b97fb5afd54e7.png",
+    "static/media/XDesign6.png": "/static/media/XDesign6.eb03e183d6d764403fa8.png",
+    "static/media/XDesign3.png": "/static/media/XDesign3.6c10e64731fa10086304.png",
+    "static/media/LaraBug2.png": "/static/media/LaraBug2.24b09cd538f0b16a371f.png",
+    "static/media/LaraBug6.png": "/static/media/LaraBug6.4b470581b430584ab367.png",
+    "static/media/LaraBug5.png": "/static/media/LaraBug5.5009d383e8c087c786a5.png",
+    "static/media/LaraBug3.png": "/static/media/LaraBug3.2750858e6704ab622e6b.png",
+    "static/media/LaraBug4.png": "/static/media/LaraBug4.303010e13c14b3119880.png",
+    "static/media/CsTactics7.png": "/static/media/CsTactics7.ac10016c9d661e13ba6b.png",
+    "static/media/CsTactics5.png": "/static/media/CsTactics5.f46da3e667762bc64298.png",
+    "static/media/CsTactics6.png": "/static/media/CsTactics6.3e9cc523c4112b9553c8.png",
+    "static/media/CsTactics3.png": "/static/media/CsTactics3.1924d455d45971b01ccc.png",
+    "static/media/CsTactics2.png": "/static/media/CsTactics2.be476d5124435edff352.png",
+    "static/media/AndersonCostaMoitinhodaSilvaCurriculo.pdf": "/static/media/AndersonCostaMoitinhodaSilvaCurriculo.cdbab9f2a0edfe7d4e88.pdf",
+    "static/media/AndersonCurriculoImagem.png": "/static/media/AndersonCurriculoImagem.eebcb260d7c8749b7e98.png",
+    "static/media/Anderson.png": "/static/media/Anderson.b73b41ddc9562214d3e0.png",
+    "static/media/CsTactics1.png": "/static/media/CsTactics1.0ed4a9335a82c3432a1e.png",
+    "static/media/LinkedinIcon.png": "/static/media/LinkedinIcon.5950cdf4f69b375fff3e.png",
+    "index.html": "/index.html",
+    "main.676d83ca.css.map": "/static/css/main.676d83ca.css.map",
+    "main.6c2040fa.js.map": "/static/js/main.6c2040fa.js.map",
+    "787.8c29b849.chunk.js.map": "/static/js/787.8c29b849.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.676d83ca.css",
+    "static/js/main.6c2040fa.js"
+  ]
+}
