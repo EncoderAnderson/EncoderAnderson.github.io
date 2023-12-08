@@ -1,12 +1,8 @@
 import React from "react";
-import {useState, useEffect} from 'react';
+import { useState, useEffect } from 'react';
 import Style from "../styles/Style";
-import {
-    VerticalTimeline,
-    VerticalTimelineElement
-  } from "react-vertical-timeline-component";
+import { VerticalTimeline, VerticalTimelineElement } from "react-vertical-timeline-component";
   import "react-vertical-timeline-component/style.min.css";
-  import WhatsAppIcon from '../assets/WhatsAppIcon.png';
   import purpleball from '../assets/purpleball.png';
 
 const SobreMim = () => {
@@ -14,7 +10,7 @@ const SobreMim = () => {
     const [height] = useState(window.innerHeight);
 
     const [fadeInImage, setFadeInImage] = useState(false);
-    const [fadeOut, setFadeOut] = useState(false);
+    const [setFadeOut] = useState(false);
     
   
     useEffect(() => {
@@ -42,7 +38,7 @@ const SobreMim = () => {
           backgroundColor:'#1C1C1C',
           width:'100%',
           height:'auto',
-          bottom:`${width*0.1}px`,
+          bottom:`${width*0.075}px`,
           right:`${width*0.05}px`,
           position:'relative',
           justifyContent:'center', 
@@ -52,7 +48,7 @@ const SobreMim = () => {
           transition: 'opacity 1s',
           }}>
 
-<div style={{position:'absolute', borderRadius:"100%", width:"87px",boxShadow: "-3px -3px 4px white ", bottom:`${height*1.05}px`, right:`${width*0.241}px`}}>
+<div style={{position:'absolute', borderRadius:"100%", width:"87px",boxShadow: "-3px -3px 4px white ", bottom:`${height*1.055}px`, right:`${width*0.241}px`}}>
 <img src={purpleball} alt="logo" style={{ ...Style.imagemAndersonPrincipal,  color:'#41d3f8',  boxShadow: "-3px -3px 4px #f30fb3 ", borderRadius:"100%", width:"87px", position:'absolute', bottom:`${height*0.001}px`, left:`${width*0.12}px`,border: '2px solid #41d3f8', }} />
 
 </div>

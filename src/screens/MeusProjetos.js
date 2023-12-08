@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect, } from "react";
 import { motion, AnimatePresence } from 'framer-motion';
 import CsTactics1 from '../assets/CsTactics1.png';
 import LaraBug1 from '../assets/LaraBug1.png';
@@ -6,12 +6,6 @@ import XDesign1 from '../assets/XDesign1.png';
 import XDesign from '../screens/XDesign';
 import LaraBug from '../screens/LaraBug';
 import CsTactics from '../screens/CsTactics';
-
-const images = {
-  CsTactics: [CsTactics1],
-  LaraBug: [LaraBug1],
-  XDesign: [XDesign1],
-};
 
 
 const MeusProjetos = () => {
@@ -97,7 +91,7 @@ const MeusProjetos = () => {
         height: 'auto',
         maxHeight: '700px',
         flexDirection: 'row',
-        bottom: `${height * 0.3}px`,
+        bottom: `${height * 0.33}px`,
         right: `${width * 0.13}px`,
         padding: '10px',
         opacity: fadeInImage ? 1 : 0,
